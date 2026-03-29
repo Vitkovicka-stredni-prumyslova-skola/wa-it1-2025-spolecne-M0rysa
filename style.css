@@ -1,0 +1,23 @@
+h1{
+    color: rgb(9, 124, 86);
+}
+h2{
+    color: rgb(26, 28, 196) !important;
+}
+
+a:link {
+
+}
+
+a:active {
+
+}
+
+a:hover {
+    background-color: bisque;
+
+}
+
+a:visited {
+    color: aqua;
+}
